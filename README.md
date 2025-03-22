@@ -44,6 +44,7 @@ Key Questions to Address:
 **Note**: _These insights from EDA will contribute to optimizing workforce planning, improving fleet management, and enhancing the overall efficiency of oil transfer services._
 
 **USED SQL CODES**
+
 *SQL*
 ```SELECT COUNT(*) AS TotalTruckDrivers
 FROM employees
