@@ -13,8 +13,14 @@ The analysis covers:
 
 **Methodology**
 
-•	Data Collection: Gathering logs, staffing data, equipment status, and service records.
-•	Analysis: Identifying delay trends and correlating them with operational factors.
-•	Root Cause Analysis: Diagnosing main delay contributors.
-•	Solution Proposal: Recommending solutions, such as process optimization and resource allocation.
++ Data Collection: Gathering logs, staffing data, equipment status, and service records.
++ Analysis: Identifying delay trends and correlating them with operational factors.
++ Root Cause Analysis: Diagnosing main delay contributors.
++ Solution Proposal: Recommending solutions, such as process optimization and resource allocation.
+
+---
+**DATA SOURCE**
+The data set provided by the client as a CSV file, which was downloaded and processed for analysis.
+---
+
 
