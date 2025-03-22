@@ -41,10 +41,10 @@ Key Questions to Address:
 4. Truck Breakdown and Maintenance Frequencies.
   + Assess the frequency of truck breakdowns and scheduled maintenance to pinpoint areas needing additional support or preventive measures.
     
-**Note**: These insights from EDA will contribute to optimizing workforce planning, improving fleet management, and enhancing the overall efficiency of oil transfer services.
+**Note**: _These insights from EDA will contribute to optimizing workforce planning, improving fleet management, and enhancing the overall efficiency of oil transfer services._
 
 **USED SQL CODES**
-SQL
+*SQL*
 ```SELECT COUNT(*) AS TotalTruckDrivers
 FROM employees
 WHERE job_title = 'Truck Driver';
