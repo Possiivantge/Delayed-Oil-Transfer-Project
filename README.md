@@ -91,17 +91,18 @@ o	If hiring is aligned with business growth, ensure adequate onboarding and inte
 o	Use historical hiring data to forecast future staffing needs and prepare for seasonal demand.
 o	Build a pool of part-time or temporary employees to ensure flexibility during high-demand periods.
 
+---
 
 ![dashboard](https://github.com/user-attachments/assets/a35727dd-a455-4780-975e-8f5a4b4045f2)
 
 
-RESULTS
-•	Truck Drivers: 120 drivers employed, potential shortages during peak periods.
-•	Efficient Trucks: 85 out of 150 trucks are efficient, and 65 trucks underperforming.
-•	Coverage Areas: Average distance of 250 km daily; some trucks cover 450 km.
-•	Truck Breakdowns: Average of 2.5 breakdowns per month; some trucks need urgent replacement.
-•	Employee Hiring: 40 new employees hired, 15 truck drivers in the past year.
-•	Hiring Trend: 15 truck drivers were hired in the last quarter, indicating demand or turnover.
-•	Insight: Fleet and workforce optimization needed for efficiency and cost reduction
+**RESULTS**
+* Truck Drivers: 120 drivers employed, potential shortages during peak periods.
+* Efficient Trucks: 85 out of 150 trucks are efficient, and 65 trucks underperforming.
+* Coverage Areas: Average distance of 250 km daily; some trucks cover 450 km.
+* Truck Breakdowns: Average of 2.5 breakdowns per month; some trucks need urgent replacement.
+* Employee Hiring: 40 new employees hired, 15 truck drivers in the past year.
+* Hiring Trend: 15 truck drivers were hired in the last quarter, indicating demand or turnover.
+* Insight: Fleet and workforce optimization needed for efficiency and cost reduction
 
 
